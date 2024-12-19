@@ -1,5 +1,8 @@
 # Data Description
 
+### How to load the data
+Our dataset is relatively large so we have compiled them inside `data.tar.gz`. Once you download and unzip all the files, the data should be divided into the train, dev, and test subsets that were used for this project.
+
 ### Data Collection & Generation
 
 The fake review dataset contains 40,000 entries:
