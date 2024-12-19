@@ -1,3 +1,10 @@
+# Description of `output` subdirectory
+
+This subdirectory contains the output for our Strong Baseline and the two extensions. This contains data on both the dev and test data. You can load this data and use the function `read_csv` to evaluate it on the .ipynb notebook as well.
+The easiest way we would recommend doing this is to just run the .ipynb notebook from start to end so that you won't have to download or upload any output files for evaluation. Both the model and evaluation scripts are already contained in the notebook.
+
+Below, we also provide samples of the metrics we used for evaluation. 
+
 # Model Evaluation Results
 
 - **Test Accuracy**: 0.49925
